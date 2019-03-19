@@ -24,3 +24,7 @@ We used a ToF-AMS to measure aerosol mass and composition
 # Results
 
 We report change in composition with atmospheric age. This is directlyt linked to the scattering properties of the particles.
+
+# Figures
+
+This is a draft, so the figures go in a section of their own.
