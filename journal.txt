@@ -10,3 +10,7 @@ BBOA are important fpr the radiative effect but the magnitude and even direction
 Our measurement set out to add to this body of knowledge using Mass Spectrometer data (Allan etal 2001).
 
 Ziyu is a good person!
+
+# Simulations
+
+John's box model is consistent with coagulation as teh dominant growth mechanism.
