@@ -2,8 +2,9 @@
 Measurement of biomass burning aerosol over West Africa
 
 # Authors
-John Smith 
-Gerard Capes
+
+Gerard Capes, Univeristy of Manchester
+John Smith, Univeristy of Somewhere
 
 # Introduction 
 
