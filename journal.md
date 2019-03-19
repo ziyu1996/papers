@@ -20,3 +20,7 @@ John's box model is consistent with coagulation as teh dominant growth mechanism
 
 We used a ToF-AMS to measure aerosol mass and composition
 (Simith et al 2001)
+
+#Results
+
+We report change in composition with atmospheric age. This is directlyt linked to the scattering properties of the particles.
