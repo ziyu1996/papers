@@ -2,6 +2,7 @@
 Measurement of biomass burning aerosol over West Africa
 
 # Authors
+John Smith 
 Gerard Capes
 
 # Introduction 
