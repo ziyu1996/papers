@@ -16,3 +16,7 @@ Ziyu is a wonderful and perfect person!
 
 John's box model is consistent with coagulation as teh dominant growth mechanism.
 
+#Methodology
+
+We used a ToF-AMS to measure aerosol mass and composition
+(Simith et al 2001)
