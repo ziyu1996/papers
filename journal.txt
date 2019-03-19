@@ -6,4 +6,5 @@ Gerard Capes
 
 # Introduction 
 
-BBOA are important fpr the radiative effect but the magnitude and even direction are unclear. Our measurement set out to add to this body of knowledge.
+BBOA are important fpr the radiative effect but the magnitude and even direction are unclear.see Haywood et al (2000).
+Our measurement set out to add to this body of knowledge.
